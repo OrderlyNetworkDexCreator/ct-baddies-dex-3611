@@ -30,14 +30,14 @@
   --oui-color-warning-darken: 255 152 0;
   --oui-color-warning-contrast: 255 255 255;
 
-  --oui-color-fill: 36 32 47;
+  --oui-color-fill: 255 255 255;
   --oui-color-fill-active: 40 46 58;
 
-  --oui-color-base-1: 255 255 255;
-  --oui-color-base-2: 255 255 255;
+  --oui-color-base-1: 120 120 120;
+  --oui-color-base-2: 145 145 145;
   --oui-color-base-3: 48 42 63;
   --oui-color-base-4: 55 0 255;
-  --oui-color-base-5: 36 32 47;
+  --oui-color-base-5: 255 255 255;
   --oui-color-base-6: 30 27 40;
   --oui-color-base-7: 0 0 0;
   --oui-color-base-8: 0 0 0;
@@ -78,11 +78,11 @@
   --oui-gradient-neutral-end: 38 41 46;
 
   /* rounded */
-  --oui-rounded-sm: 2px;
+  --oui-rounded-sm: 3px;
   --oui-rounded: 4px;
   --oui-rounded-md: 6px;
-  --oui-rounded-lg: 8px;
-  --oui-rounded-xl: 12px;
+  --oui-rounded-lg: 10px;
+  --oui-rounded-xl: 14px;
   --oui-rounded-2xl: 16px;
   --oui-rounded-full: 9999px;
 
