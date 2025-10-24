@@ -25,7 +25,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "https://x.com/CTBaddiesdex",
   "VITE_SEO_SITE_NAME": "CT Baddies Dex",
   "VITE_SEO_SITE_DESCRIPTION": "The Dex for Crypto Baddies",
-  "VITE_SEO_SITE_URL": "https://dex.orderly.network/ct-baddies-dex-3611/",
+  "VITE_SEO_SITE_URL": "https://ctbaddies.xyz",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "@CTBaddiesdex",
