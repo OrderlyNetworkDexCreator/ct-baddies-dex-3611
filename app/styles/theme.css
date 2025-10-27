@@ -3,7 +3,7 @@
   --oui-font-size-base: 18px;
 
   /* colors */
-  --oui-color-primary: 240 232 10;
+  --oui-color-primary: 255 136 0;
   --oui-color-primary-light: 198 152 218;
   --oui-color-primary-darken: 128 81 161;
   --oui-color-primary-contrast: 255 255 255;
@@ -97,12 +97,4 @@
 html, body {
   font-family: 'Roboto', sans-serif !important;
   font-size: 18px !important;
-}
-
-#root>div.oui-scaffold-root.oui-font-semibold.oui-bg-base-10.oui-text-base-contrast.oui-flex.oui-flex-col.oui-custom-scrollbar.oui-overflow-auto>div.oui-box.oui-scaffold-topNavbar.oui-bg-base-9>header>div .oui-text-base-contrast-36 {
-color: rgb(var(--oui-color-base-foreground) / 1) !important;
-}
-
-#root>div.oui-scaffold-root.oui-font-semibold.oui-bg-base-10.oui-text-base-contrast.oui-flex.oui-flex-col.oui-custom-scrollbar.oui-overflow-auto>div.oui-box.oui-scaffold-topNavbar.oui-bg-base-9>header>div .oui-text-base-contrast-54 {
-color: rgb(var(--oui-color-base-foreground) / 1) !important;
 }
