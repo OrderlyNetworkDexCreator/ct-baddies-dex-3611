@@ -1,5 +1,5 @@
 window.__RUNTIME_CONFIG__ = {
-  "VITE_ORDERLY_BROKER_ID": "demo",
+  "VITE_ORDERLY_BROKER_ID": "crypto_trading_baddies",
   "VITE_ORDERLY_BROKER_NAME": "CT Baddies Dex",
   "VITE_DISABLE_MAINNET": "false",
   "VITE_DISABLE_TESTNET": "false",
@@ -7,7 +7,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_ORDERLY_TESTNET_CHAINS": "421614,97,10143,11124,901901901",
   "VITE_DEFAULT_CHAIN": "900900900",
   "VITE_PRIVY_APP_ID": "cmh9cvztf00qaii0cd88z7z46",
-  "VITE_PRIVY_LOGIN_METHODS": "email,twitter,google",
+  "VITE_PRIVY_LOGIN_METHODS": "email",
   "VITE_PRIVY_TERMS_OF_USE": "",
   "VITE_ENABLE_ABSTRACT_WALLET": "true",
   "VITE_DISABLE_EVM_WALLETS": "false",
